@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+    width: 200px;
+  }
+  
+  .sun1 {
+    width: 160px;
+    height: 150px;
+    background-image: url('../img/sun1.svg'); 
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+  }
+  
